@@ -1,0 +1,12 @@
+[
+    {
+        "usuario_id": "0712345678",
+        "producto_codigo": "001",
+        "cantidad": 1
+    },
+    {
+        "usuario_id": "0712345678",
+        "producto_codigo": "002",
+        "cantidad": 1
+    }
+]
